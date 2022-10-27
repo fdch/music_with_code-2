@@ -2,7 +2,7 @@
 Making Music with Code 2
 ========================
 
-.. image:: ./images/mwc1.jpg
+.. image:: ./images/mwc2.jpg
     :width: 100%
 
 
@@ -108,7 +108,7 @@ The main thing is to find something that you'd really like to do and then do it.
 
 Hope you enjoy the class!
 
-.. image:: ./images/mwc1.jpg
+.. image:: ./images/mwc2.jpg
     :width: 400
 
 ----
